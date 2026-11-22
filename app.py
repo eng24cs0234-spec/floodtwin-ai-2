@@ -426,8 +426,8 @@ with right_col:
         st.markdown(
             st.markdown("**2. Design / Diagram:**").
             
-            "User Input Criteria` → `Cloud Web Platform (Streamlit) → "
-            "AI Multi-Criteria Flood Risk Engine → Risk Score, 72h Trend & Early Warning Dashboard"
+            " User Input Criteria` → `Cloud Web Platform (Streamlit) → "
+            " AI Multi-Criteria Flood Risk Engine → Risk Score, 72h Trend & Early Warning Dashboard "
         )
         st.markdown(
             "**3. Flow of the Tool:** Enter the 9 location and hydrological parameters → "
