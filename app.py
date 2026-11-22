@@ -424,7 +424,7 @@ with right_col:
             "drainage, elevation, and distance from the river manually during heavy rain delays early warnings."
         )
         st.markdown(
-            st.markdown("**2. Design / Diagram:**")
+            st.markdown("**2. Design / Diagram:**").
             
             "User Input Criteria` → `Cloud Web Platform (Streamlit) → "
             "AI Multi-Criteria Flood Risk Engine → Risk Score, 72h Trend & Early Warning Dashboard"
